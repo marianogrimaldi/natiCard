@@ -1,0 +1,62 @@
+{
+    "translation": {
+        "Header":{
+            "calendario": "CALENDÁRIO",
+            "contacto": "CONTATO"
+        },
+        "Home": {
+            "frase": "\"Paixão é a grande diferença...\"",
+            "datos1": "Aniversário",
+            "datos2": "Lar",
+            "datos3": "Profissão Atleta",
+            "datos4": "Associação",
+            "datos5": "Treinador",
+            "datos6": "DADOS FISICOS",
+            "datos7": "Altura",
+            "datos8": "Peso",
+            "datos9": "Calçados",
+            "datos10": "Corpo gordo",
+            "datos11": "Pulsos menor 38 máximo 182",
+            "titulo1": "ATLETA DO BERÇO AO CÉU",
+            "textoHis": "\"Atleta do berço ao céu. Nascido e criado em São Jorge pcia. de Santa Fé. Aos 5 anos já começava a se destacar e viver a paixão pelo esporte. Depois de casa e da escola, havia o clube, onde passavam muitas horas fazendo diversas atividades, desde futebol, basquete, vôlei, atletismo, natação, etc. Com o passar dos anos, a principal orientação no esporte foi para o futebol, até os 19 anos, para depois desenvolver outros tipos de atividades, juntamente com o início dos estudos superiores. Nos anos seguintes iniciei com esta paixão pelos desportos combinados e radicais, e que desde o ano 2000 juntamente com o início de um novo milénio, faz parte da minha vida, participando nos triatlos como actividade principal (Iron man com mais de 20 anos de trajetória e tour mundial), combinando com corridas de montanha (trial running), séries de mountain bike e montanhismo, somados a todos os desafios e aventuras que surgem. Sem dúvida, o esporte faz parte do meu DNA, agregando vida a cada passo e decisão que se toma, sempre com a disciplina, empenho, persistência, dedicação e paixão de um profissional. Ser profissional nem sempre implica obter um grande resultado ou apenas olhar para ele a partir dos títulos, para mim ser profissional implica todos os factores acima referidos e acima de tudo sonhar grande, fazer o trabalho e nunca desistir..\"",
+            "titulo2": "APOIOS DA MINHA PAIXÃO"
+        },
+        "Generales": {
+            "resultados": "RESULTADOS EXCELENTES",
+            "hash": "#sejaoseumáximo",
+            "galeria": "GALERIA"
+        },
+        "Mountain": {
+            "cumbres": "CUMPRIMENTOS DA MINHA VIDA"
+        },
+        "Calendario": {
+            "frase": "CALENDÁRIO EM CONSTRUÇÃO",
+            "titulo":"CALENDÁRIO",
+            "enero": "JANEIRO",
+            "febrero": "FEVEREIRO",
+            "marzo": "MARCHAR",
+            "abril": "ABRIL",
+            "mayo": "PODERIA",
+            "junio": "JUNHO",
+            "julio": "JULHO",
+            "agosto": "AGOSTO",
+            "septiembre": "SETEMBRO",
+            "octubre": "OUTUBRO",
+            "noviembre": "NOVEMBRO",
+            "diciembre": "DEZEMBRO"
+        },
+        "Sponsors": {
+            "titulo": "PATROCINADORES"
+        },
+        "Meraki":{
+            "pronto": "BREVE"
+          },
+        "Footer": {
+            "calendario": "CALENDÁRIO",
+            "contacto": "CONTATO"
+        },
+        "Otros": {
+            "resultados": "OUTROS RESULTADOS"
+        }
+    }
+}

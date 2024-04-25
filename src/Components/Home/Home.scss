@@ -1,0 +1,113 @@
+.flexNumber{
+    display: flex;
+    justify-content: center;
+    gap: 2rem
+}
+
+@media screen and (max-width: 479px){
+    .flexNumber{
+        flex-direction: column;
+       gap:0;
+       
+        margin-bottom: 0;
+    }
+}
+
+h1, h2, h3, h4, p{
+    
+    font-family: "Comfortaa", sans-serif;
+    text-shadow: .5px .5px .5px black;
+}
+
+
+
+
+@media screen and (max-width: 479px){
+    h1{
+        font-size: 1.5rem;
+        
+    }
+    h2, h3, h4,p{
+        font-size: .8rem;
+    }
+}
+
+a{
+    text-decoration: none;
+   p{
+    color: black;
+  
+   } 
+}
+
+.imgZermatt{
+    width: 100%;
+    position: absolute;
+    opacity: .3;
+}
+
+@media screen and (max-width: 992px){
+    .imgZermatt{
+        display: none;
+    }
+}
+
+.logoMajo{
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+@media screen and (max-width: 479px){
+    .logoMajo{
+        width: 20rem;
+    }
+}
+
+.datos{
+    position: relative;
+    text-align: center;
+    z-index: 2;
+    padding-top: 5rem;
+
+    h1, h2, h3,p{
+        margin-bottom: 2rem;
+    }
+ 
+}
+
+
+
+.frase{
+    margin-top: 2rem;
+}
+
+.imgMobile{
+    display: none;
+    width: 100%;
+    position: absolute;
+    opacity: .3;
+}
+
+@media screen and (max-width: 479px){
+    .imgMobile{
+        display: block;
+    }
+}
+
+.imgMobileHor{
+    display: none;
+    width: 100%;
+    position: absolute;
+    opacity: .3;
+}
+
+@media screen and (max-width: 992px){
+    .imgMobileHor{
+        display: block;
+    }
+}
+
+@media screen and (max-width: 479px){
+    .imgMobileHor{
+        display: none;
+    }
+}

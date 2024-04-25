@@ -1,0 +1,62 @@
+{
+    "translation": {
+        "Header":{
+            "calendario": "CALENDRIER",
+            "contacto": "CONTACT"
+        },
+        "Home": {
+            "frase": "\"La passion est la grande différence...\"",
+            "datos1": "Naissance",
+            "datos2": "Maison",
+            "datos3": "Profession Athlète",
+            "datos4": "Association",
+            "datos5": "Entraîneur",
+            "datos6": "DONNÉES PHYSIQUES",
+            "datos7": "Hauteur",
+            "datos8": "Lester",
+            "datos9": "Chaussure",
+            "datos10": "Graisse corporelle",
+            "datos11": "Impulsions mineures 38 maximum 182",
+            "titulo1": "ATHLÈTE DU BERCEAU AU CIEL",
+            "textoHis": "\"Athlète du berceau au ciel. Né et élevé à San Jorge pcia. de Santa Fé. A l'âge de 5 ans, il commençait déjà à se démarquer et à vivre la passion du sport. Après la maison et l'école, il y avait le club, où ils passaient de nombreuses heures à faire différentes activités, du football, du basket-ball, du volley-ball, de l'athlétisme, de la natation, etc. Au fil des années, l'orientation sportive principale s'est portée vers le soccer, jusqu'à l'âge de 19 ans, pour développer par la suite d'autres types d'activités, parallèlement aux débuts des études tertiaires. Dans les années suivantes, j'ai commencé avec cette passion pour les sports combinés et extrêmes, et cela depuis l'an 2000 avec le début d'un nouveau millénaire, fait partie de ma vie, participant à des triathlons comme activité principale (Iron man avec plus de 20 années de trajectoire et de tour du monde), se combinant avec des courses de montagne (course à pied), des séries de mountain bike et de l'alpinisme, ajoutés à tous les défis et aventures qui se présentent. Sans aucun doute, le sport fait partie de mon ADN, ajoutant de la vie à chaque étape et décision que l'on prend, toujours avec la discipline, l'engagement, la persévérance, le dévouement et la passion d'un professionnel. Être professionnel n'implique pas toujours d'obtenir un excellent résultat ou de ne le regarder qu'à partir des titres, pour moi être professionnel implique tous les facteurs mentionnés ci-dessus et surtout rêver grand, faire le travail et ne jamais abandonner.\"",
+            "titulo2": "SUPPORTS DE MA PASSION"
+        },
+        "Generales": {
+            "resultados": "DES RÉSULTATS EXCEPTIONNELS",
+            "hash": "#soistonmaximum",
+            "galeria": "GALERIE"
+        },
+        "Mountain": {
+            "cumbres": "SOMMES DE MA VIE"
+        },
+        "Calendario": {
+            "frase": "CALENDRIER EN CONSTRUCTION",
+            "titulo":"CALENDRIER",
+            "enero": "JANVIER",
+            "febrero": "FÉVRIER",
+            "marzo": "MARS",
+            "abril": "AVRIL",
+            "mayo": "PEUT",
+            "junio": "JUIN",
+            "julio": "JUILLET",
+            "agosto": "AOÛT",
+            "septiembre": "SEPTEMBRE",
+            "octubre": "OCTOBRE",
+            "noviembre": "NOVEMBRE",
+            "diciembre": "DÉCEMBRE"
+        },
+        "Sponsors": {
+            "titulo": "COMMANDITAIRES"
+        },
+        "Meraki":{
+            "pronto": "BIENTÔT"
+          },
+        "Footer": {
+            "calendario": "CALENDRIER",
+            "contacto": "CONTACT"
+        },
+        "Otros": {
+            "resultados": "AUTRES RÉSULTATS"
+        }
+    }
+}

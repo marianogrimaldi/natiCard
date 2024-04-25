@@ -1,0 +1,62 @@
+{
+    "translation": {
+        "Header":{
+            "calendario": "KALENDER",
+            "contacto": "KONTAKT"
+        },
+        "Home": {
+            "frase": "\"Leidenschaft ist der große Unterschied...\"",
+            "datos1": "Geburt",
+            "datos2": "Heim",
+            "datos3": "Beruf Athlet",
+            "datos4": "Verband",
+            "datos5": "Coach",
+            "datos6": "PHYSISCHE DATEN",
+            "datos7": "Höhe",
+            "datos8": "Gewicht",
+            "datos9": "Schuhwerk",
+            "datos10": "Körperfett",
+            "datos11": "Impulse Moll 38, Maximum 182",
+            "titulo1": "ATHLET VON DER WIEGE BIS ZUM HIMMEL",
+            "textoHis": "\"Sportler von der Wiege bis zum Himmel. Geboren und aufgewachsen in San Jorge pcia. von Santa Fe. Bereits im Alter von 5 Jahren begann er aufzufallen und die Leidenschaft für den Sport zu leben. Nach dem Zuhause und der Schule gab es den Verein, in dem sie viele Stunden mit verschiedenen Aktivitäten verbrachten, von Fußball, Basketball, Volleyball, Leichtathletik, Schwimmen usw. Im Laufe der Jahre konzentrierte er sich bis zu seinem 19. Lebensjahr hauptsächlich auf den Fußball, um später andere Aktivitäten zu entwickeln und ein Terzärsstudium zu beginnen. In den folgenden Jahren begann ich mit dieser Leidenschaft für Kombinations- und Extremsportarten, und das ist seit dem Jahr 2000, zusammen mit dem Beginn eines neuen Jahrtausends, Teil meines Lebens, wobei die Teilnahme an Triathlons als Hauptaktivität (Iron Man mit mehr als 20 Jahren Erfahrung und Welttournee), kombiniert mit Bergrennen (Trial Running), Mountainbike-Serien und Bergsteigen, zu allen Herausforderungen und Abenteuern, die sich ergeben, hinzukam. Ohne Zweifel ist Sport Teil meiner DNA und verleiht jedem Schritt und jeder Entscheidung, die man trifft, Leben, immer mit der Disziplin, dem Engagement, der Beharrlichkeit, der Hingabe und der Leidenschaft eines Profis. Ein Profi zu sein bedeutet nicht immer, ein großartiges Ergebnis zu erzielen oder es nur anhand der Titel zu sehen. Für mich bedeutet es, ein Profi zu sein, alle oben genannten Faktoren und vor allem, große Träume zu haben, den Job zu machen und niemals aufzugeben..\"",
+            "titulo2": "UNTERSTÜTZUNG MEINER LEIDENSCHAFT"
+        },
+        "Generales": {
+            "resultados": "HERVORRAGENDE ERGEBNISSE",
+            "hash": "#seideinmaximum",
+            "galeria": "GALERIE"
+        },
+        "Mountain": {
+            "cumbres": "GIPFEL MEINES LEBENS"
+        },
+        "Calendario": {
+            "frase": "KALENDER IM BAU",
+            "titulo":"KALENDER",
+            "enero": "JANUAR",
+            "febrero": "FEBRUAR",
+            "marzo": "MARSCH",
+            "abril": "APRIL",
+            "mayo": "DÜRFEN",
+            "junio": "JUNI",
+            "julio": "JULI",
+            "agosto": "AUGUST",
+            "septiembre": "SEPTEMBER",
+            "octubre": "OKTOBER",
+            "noviembre": "NOVEMBER",
+            "diciembre": "DEZEMBER"
+        },
+        "Sponsors": {
+            "titulo": "SPONSOREN"
+        },
+        "Meraki":{
+            "pronto": "BALD"
+          },
+        "Footer": {
+            "calendario": "KALENDER",
+            "contacto": "KONTAKT"
+        },
+        "Otros": {
+            "resultados": "ANDERE ERGEBNISSE"
+        }
+    }
+}
