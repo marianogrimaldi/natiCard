@@ -24,7 +24,7 @@ const Home = () => {
                 <p>natifornero@yahoo.com.ar</p>
                 <a href="http://www.majopurinan.tur.ar/" target="_blank"><p>www.majopurinan.tur.ar</p></a>
                 <div className="flexNumber">
-                    <a href="https://api.whatsapp.com/send?phone=5493416836459" target="_blank"><p>3406 421065</p></a>
+                    <a href="https://api.whatsapp.com/send?phone=5493416836459" target="_blank"><p>341 6836459</p></a>
                     <a href="https://api.whatsapp.com/send?phone=5493412025536" target="_blank"><p>341 2025536</p></a>
                     <a href="https://www.instagram.com/majopurinanviajes/" target="_blank"><p>@majopurinanviajes</p></a>
 
